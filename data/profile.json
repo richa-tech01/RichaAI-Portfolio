@@ -1,0 +1,209 @@
+{
+  "name": "Richa Singh",
+  "headline": "Associate AI/ML Engineer | Machine Learning | Computer Vision | Predictive Analytics",
+  "location": "India",
+  "experience_summary": "8-12 months",
+  "availability": "Open to suitable career opportunities",
+  "linkedin_url": "https://www.linkedin.com/in/richacatalyst/",
+  "email": "",
+  "phone": "",
+  "about": "Associate AI/ML Engineer within 8-12 months of experience in AI, Machine Learning, Computer Vision, and Data Analytics. Skilled in Python, YOLO, LLMs, SQL, and Streamlit, with hands-on experience in object detection, predictive analytics, and real-time risk assessment. Passionate about developing practical AI solutions.",
+  "experience": [
+    {
+      "role": "Associate AI/ML Engineer",
+      "company": "Elgoss Private Limited",
+      "employment_type": "Full-Time",
+      "project": "Parashara Software (Vedic Vastu Software)",
+      "duration": "Nov 2025 – Jun 2026",
+      "location": "Todarpur, Rajatalab, Varanasi",
+      "responsibilities": [
+        "Collected, organized, and labeled project data; prepared structured datasets for YOLO-based object detection.",
+        "Performed data preprocessing, dataset quality analysis, and data validation to support data accuracy and consistency.",
+        "Trained YOLO models, experimented with training approaches, and evaluated results to improve model performance.",
+        "Fine-tuned models and identified effective configurations to support computer vision model development."
+      ]
+    },
+    {
+      "role": "Artificial Intelligence Intern",
+      "company": "Apana Time Tech Solution",
+      "employment_type": "Internship",
+      "project": "Burnout Risk Prediction",
+      "duration": "Dec 2025 – Mar 2026",
+      "location": "Gorakhpur",
+      "responsibilities": [
+        "Worked on burnout risk prediction using machine learning and predictive analytics in a healthcare analytics context.",
+        "Contributed to real-time risk assessment, a Streamlit application, and model deployment."
+      ]
+    },
+    {
+      "role": "Data Analyst Intern",
+      "company": "Apana Time Tech Solution",
+      "employment_type": "Internship",
+      "duration": "May 2025 – Nov 2025",
+      "location": "Gorakhpur",
+      "responsibilities": [
+        "Used Python, SQL, Excel, and Power BI for data analysis, visualization, and analytical reporting.",
+        "Worked with interactive dashboards, business intelligence, and academic analytics to support data-driven decision-making."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications (Data Science & AI)",
+      "institution": "Babu Banarasi Das University",
+      "status": "Completed",
+      "score": "4.25/5",
+      "duration": "2023 – 2025",
+      "location": "Lucknow",
+      "description": "My AI journey began at Babu Banarasi Das University (BBDU) during my MCA in Data Science and Artificial Intelligence. Here, I learned the fundamentals of AI, its practical applications, and how to use AI technologies to solve real-world problems.",
+      "skills": [
+        "Data Science",
+        "Python (Programming Language)",
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Research Skills"
+      ]
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Mahatma Gandhi Kashi Vidyapith",
+      "status": "Completed",
+      "score": "3.75/5",
+      "duration": "2019 – 2022",
+      "location": "Uttar Pradesh",
+      "description": "My computer science journey began at Mahatma Gandhi Kashi Vidyapith University, where I completed my Bachelor of Computer Applications (BCA). This is where I took my first steps into the world of computers, learning the fundamentals of computer science, programming, and software development, which laid the foundation for my future in technology and AI.",
+      "skills": [
+        "Object-Oriented Programming (OOP)",
+        "Communication",
+        "Programming",
+        "Team Management",
+        "Microsoft Word",
+        "Management"
+      ]
+    }
+  ],
+  "skills": {
+    "Programming": [
+      "Python",
+      "SQL"
+    ],
+    "AI & Machine Learning": [
+      "Machine Learning",
+      "Large Language Models (LLMs)",
+      "YOLO",
+      "Computer Vision",
+      "Model Training",
+      "Model Deployment",
+      "Predictive Analytics",
+      "Healthcare Analytics",
+      "Real-Time Risk Assessment"
+    ],
+    "Data Skills": [
+      "Data Preprocessing",
+      "Dataset Quality Analysis",
+      "Data Labeling",
+      "Data Validation",
+      "Data Analysis",
+      "Data Visualization",
+      "Analytical Reporting",
+      "Business Intelligence"
+    ],
+    "Databases & Office Tools": [
+      "MySQL",
+      "Microsoft Excel",
+      "Microsoft Word"
+    ],
+    "Tools & Platforms": [
+      "Jupyter Notebook",
+      "Streamlit",
+      "Power BI",
+      "Labelme",
+      "Label Studio",
+      "Lightning AI"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Parashara Software",
+      "description": "Contributed to Computer Vision and YOLO-based object detection activities for Vedic Vastu software.",
+      "organization": "Elgoss Private Limited",
+      "location": "Thoderpur, Uttar Pradesh",
+      "duration": "Nov 2025 – Jun 2026",
+      "skills": [
+        "Python",
+        "YOLO",
+        "Computer Vision",
+        "Data Labeling",
+        "Data Preprocessing"
+      ]
+    },
+    {
+      "name": "YOLO-Based Computer Vision & Floor Plan Detection",
+      "description": "Worked on real-world Computer Vision projects using YOLO for object detection and segmentation. Developed solutions for floor-plan analysis, including wall and room detection, with image preprocessing, annotation validation, model training, and testing.",
+      "organization": "Elgoss Private Limited",
+      "location": "Thoderpur, Uttar Pradesh",
+      "duration": "Nov 2025 – Jun 2026",
+      "skills": [
+        "Research Skills",
+        "Machine Learning in Artificial Intelligence",
+        "Computer Vision",
+        "Python (Programming Language)"
+      ]
+    },
+    {
+      "name": "Burnout Risk Prediction",
+      "description": "Worked on machine learning-based burnout risk prediction with predictive and healthcare analytics, real-time risk assessment, a Streamlit application, and model deployment.",
+      "organization": "Apana Time Tech Solution",
+      "location": "Gorakhpur",
+      "duration": "Dec 2025 – Jan 2026",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Predictive Analytics",
+        "Healthcare Analytics",
+        "Streamlit"
+      ]
+    },
+    {
+      "name": "Autism Prediction System",
+      "description": "Built a machine learning-based tool using XGBoost and Random Forest to predict autism likelihood from behavioral and demographic data. Enabled early-stage detection with a focus on under-resourced areas. Tools used: Python, machine learning algorithms, and Jupyter Notebook.",
+      "organization": "Babu Banarasi Das University",
+      "duration": "Jan 2025 – Jun 2025",
+      "skills": [
+        "Machine Learning",
+        "Python (Programming Language)",
+        "Artificial Intelligence (AI)"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google AI Educator Series for India",
+      "issuer": "Google",
+      "issue_date": "September 2026",
+      "credential_url": "https://edu.google.accredible.com/ec900abb-f6b5-408b-a6d4-dde6032c6930#acc.bXA2SEjy"
+    },
+    {
+      "name": "Digital Skills: Artificial Intelligence",
+      "issuer": "Accenture",
+      "issue_date": "August 2026"
+    },
+    {
+      "name": "Machine Learning in AI",
+      "issuer": "European Open University",
+      "issue_date": "August 2026"
+    },
+    {
+      "name": "Communication Skills",
+      "issuer": "TCS iON",
+      "issue_date": "July 2026"
+    }
+  ],
+  "career_interests": [
+    "Associate AI/ML Engineer",
+    "Junior Machine Learning Engineer",
+    "Data Analyst",
+    "Computer Vision Engineer",
+    "Other suitable technical opportunities"
+  ]
+}

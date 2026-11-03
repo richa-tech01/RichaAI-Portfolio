@@ -1,0 +1,56 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Local secrets and environment files
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+secrets.toml
+.streamlit/secrets.toml
+**/secrets.toml
+**/secrets.*
+*.secret
+*.secrets
+*.token
+*api_key*
+*api-key*
+*credential*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs, temporary files, and test/tool caches
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local placeholders (not deployable content)
+assets/ADD_YOUR_RESUME_HERE.txt
+data/README.txt
